@@ -20,10 +20,10 @@ class Solution {
           }
 
         }
-        int val=0;
+        int sum=0;
         for(int i=0;i<st.size();i++){
-             val+=st.get(i);
+             sum+=st.get(i);
         }
-        return val;
+        return sum;
     }
 }
