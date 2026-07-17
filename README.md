@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Valoor007/solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Valoor007/solution/tree/master/0682-baseball-game) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Valoor007/solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Valoor007/solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Valoor007/solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Valoor007/solution/tree/master/2487-remove-nodes-from-linked-list) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Valoor007/solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Valoor007/solution/tree/master/0682-baseball-game) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Valoor007/solution/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Valoor007/solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Valoor007/solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Valoor007/solution/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Valoor007/solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Valoor007/solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
