@@ -14,7 +14,7 @@ class Solution {
         ArrayList<Integer> arr = new ArrayList<>();
         ListNode temp = head;
         while (temp != null) {
-            arr.add(temp.val);
+        arr.add(temp.val);
             temp = temp.next;
         }
 
