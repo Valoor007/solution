@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Valoor007/solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Valoor007/solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Valoor007/solution/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Valoor007/solution/tree/master/1019-next-greater-node-in-linked-list) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Valoor007/solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Valoor007/solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Valoor007/solution/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Valoor007/solution/tree/master/1019-next-greater-node-in-linked-list) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Valoor007/solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Valoor007/solution/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Valoor007/solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Valoor007/solution/tree/master/1944-number-of-visible-people-in-a-queue) |
