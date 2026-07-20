@@ -1,28 +1,41 @@
 class Solution {
     public String frequencySort(String s) {
-        char[] sArr = s.toCharArray();
-        Arrays.sort(sArr);
-
-        List<String> groups = new ArrayList<>();  
-        int i = 0;
-        while (i < sArr.length) {
-            int count = 1;
-            while (i + count < sArr.length && sArr[i] == sArr[i + count]) {
-                count++;
+        int max = 0;
+        for (char ch : s.toCharArray()) {
+            if(ch > max){
+                max = ch;
             }
-            String repeated = "";
-        for (int k = 0; k < count; k++) {
-                repeated += sArr[i];
         }
-            groups.add(repeated);  
-     i += count;
+        
+        int[] freqarr = new int[max + 1];
+        for (int i = 0; i < s.length(); i++) {
+            freqarr[s.charAt(i)]++;
+        }
+        
+        String ans = "";
+
+    while(true){
+
+        int maxFreq = 0;
+        int ch = -1;
+
+        for(int i = 0; i <= max; i++){
+            if(freqarr[i] > maxFreq){
+                maxFreq = freqarr[i];
+                ch = i;
+            }
         }
 
-        groups.sort((a, b) -> b.length() - a.length());
-        String result = "";
-            for (String g : groups) {
-            result += g;
+        if(maxFreq == 0){
+            break;
         }
-        return result;
+
+        while(freqarr[ch] > 0){
+            ans += (char)ch;
+            freqarr[ch]--;
+        }
+    }
+
+    return ans;
     }
 }
