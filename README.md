@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Valoor007/solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0349-intersection-of-two-arrays](https://github.com/Valoor007/solution/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Valoor007/solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Valoor007/solution/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Valoor007/solution/tree/master/1019-next-greater-node-in-linked-list) |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Valoor007/solution/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Valoor007/solution/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Valoor007/solution/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Valoor007/solution/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Valoor007/solution/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -70,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Valoor007/solution/tree/master/0451-sort-characters-by-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Valoor007/solution/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Valoor007/solution/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
