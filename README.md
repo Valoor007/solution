@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Valoor007/solution/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Valoor007/solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Valoor007/solution/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3731-find-missing-elements](https://github.com/Valoor007/solution/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Valoor007/solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Valoor007/solution/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Valoor007/solution/tree/master/0496-next-greater-element-i) |
+| [3731-find-missing-elements](https://github.com/Valoor007/solution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Valoor007/solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Valoor007/solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Valoor007/solution/tree/master/0451-sort-characters-by-frequency) |
+| [3731-find-missing-elements](https://github.com/Valoor007/solution/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
