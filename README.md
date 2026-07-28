@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Valoor007/solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Valoor007/solution/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Valoor007/solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Valoor007/solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Valoor007/solution/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Valoor007/solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Valoor007/solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Valoor007/solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Valoor007/solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Valoor007/solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Valoor007/solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Valoor007/solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Valoor007/solution/tree/master/0350-intersection-of-two-arrays-ii) |
