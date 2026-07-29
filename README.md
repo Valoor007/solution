@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Valoor007/solution/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Valoor007/solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Valoor007/solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Valoor007/solution/tree/master/2506-count-pairs-of-similar-strings) |
 ## Stack
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Valoor007/solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Valoor007/solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Valoor007/solution/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Valoor007/solution/tree/master/2506-count-pairs-of-similar-strings) |
 | [3731-find-missing-elements](https://github.com/Valoor007/solution/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Valoor007/solution/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Valoor007/solution/tree/master/0496-next-greater-element-i) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Valoor007/solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Valoor007/solution/tree/master/2506-count-pairs-of-similar-strings) |
 | [3731-find-missing-elements](https://github.com/Valoor007/solution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Valoor007/solution/tree/master/0451-sort-characters-by-frequency) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Valoor007/solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Valoor007/solution/tree/master/2506-count-pairs-of-similar-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Valoor007/solution/tree/master/0268-missing-number) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Valoor007/solution/tree/master/2506-count-pairs-of-similar-strings) |
 ## Sliding Window
 |  |
 | ------- |
