@@ -12,7 +12,7 @@ class Solution {
 
             TreeNode node = s.pop();
 
-            ans.add(0, node.val);
+            ans.add(node.val);
 
             if(node.left != null) {
                 s.push(node.left);
@@ -22,6 +22,8 @@ class Solution {
                 s.push(node.right);
             }
         }
+
+        Collections.reverse(ans);
 
         return ans;
     }
