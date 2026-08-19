@@ -4,13 +4,13 @@ class Solution {
         return create(nums, 0, nums.length - 1);
     }
     public TreeNode create(int[] nums, int left, int right) {
-        if(left > right) {
+       if(left > right) {
             return null;
         }
-
+         
         int mid = (left + right) / 2;
         TreeNode node = new TreeNode(nums[mid]);
-   node.left = create(nums, left, mid - 1);
+        node.left = create(nums, left, mid - 1);
         node.right = create(nums, mid + 1, right);
 
         return node;
