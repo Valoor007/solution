@@ -34,8 +34,9 @@ class Solution {
 
     public int diameterOfBinaryTree(TreeNode root) {
 
-height(root);
-        return maxx;
+    height(root);
+
+    return maxx;
 
     }
     public int height(TreeNode root){
