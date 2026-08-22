@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Valoor007/solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Valoor007/solution/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Valoor007/solution/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/Valoor007/solution/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Valoor007/solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Valoor007/solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Valoor007/solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Valoor007/solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Valoor007/solution/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Valoor007/solution/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Valoor007/solution/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Valoor007/solution/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Valoor007/solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Valoor007/solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Valoor007/solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Valoor007/solution/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Valoor007/solution/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Valoor007/solution/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Valoor007/solution/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Valoor007/solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Valoor007/solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Valoor007/solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Valoor007/solution/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Valoor007/solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Valoor007/solution/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Valoor007/solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
@@ -233,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Valoor007/solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Valoor007/solution/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
