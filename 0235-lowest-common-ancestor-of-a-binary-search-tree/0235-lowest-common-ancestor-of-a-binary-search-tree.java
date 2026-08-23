@@ -36,10 +36,8 @@ class Solution {
             if(set.contains(q)) {
                 return q;
             }
-
-            q = parent.get(q);
+    q = parent.get(q);
         }
-
         return null;
     }
 }
